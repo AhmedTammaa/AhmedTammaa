@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tammaa</h1>
 <h3 align="center">A passionate LLM Engineer (Nomadic Dev works Remotely in Anywhere!)</h3>
+![octocat-1732029071526](https://github.com/user-attachments/assets/1f512b74-c60e-4f9d-92f5-fc4193ec630a)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtammaa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtammaa" /> </p>
