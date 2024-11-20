@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/1f512b74-c60e-4f9d-92f5-fc4193ec630a"><\p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtammaa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtammaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtammaa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtammaa" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtammaa" alt="ahmedtammaa" /></a> </p>
 
