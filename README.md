@@ -136,13 +136,6 @@ I’m a **Generative AI** and **LLM Engineer** with hands-on experience building
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmedtammaa&show_icons=true&theme=default" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtammaa&layout=compact" />
-</p>
-
 > **Looking to discuss AI or collaborate on cutting-edge LLM projects?** Feel free to [reach out](mailto:ahmedtammaa101@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ahmedtammaa101/).
 
 <div align="center">
