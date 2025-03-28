@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ahmed Tammaa 👋</h1>
 <p align="center">
-  <b>Generative AI • LLM Engineer • ICPC World Finalist</b><br/>
+  <b>Generative AI • LLM Engineer • ICPC World Finalist • Langchain Contributor</b><br/>
   <i>Nomadic Developer, working remotely from anywhere!</i>
 </p>
 
