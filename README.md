@@ -1,143 +1,123 @@
-<h1 align="center">Hi there, I'm Ahmed Tammaa 👋</h1>
-<p align="center">
-  <b>Generative AI • LLM Engineer • ICPC World Finalist • Langchain Contributor</b><br/>
-  <i>Nomadic Developer, working remotely from anywhere!</i>
-</p>
+<h1 align="center">Hi, I'm Ahmed Tammaa 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedtammaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp; <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtammaa&theme=flat&no-bg=false" alt="Trophy" /></a>
+  <b>AI Engineer · LLM Systems & Multi-Agent Architecture</b><br/>
+  <i>Founding AI Engineer @ SUN (a16z) · M.Sc. CS @ TU Graz · ICPC World Finalist</i>
+</p>
+
+<p align="center">
+  <a href="mailto:ahmed.tammaa.ai@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ahmedtammaa101/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@ahmedtammaa101_24052"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.researchgate.net/profile/Ahmed-Tammaa"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedtammaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## About Me
+## About
 
-I’m a **Generative AI** and **LLM Engineer** with hands-on experience building advanced AI applications, from **Large Language Models** to **autonomous agent workflows**. My background spans **Machine Learning**, **Deep Learning**, **NLP**, and **Computational Research**, including competitive programming at the **ICPC World Finals** level.
+I build production-grade LLM systems — multi-agent orchestration, real-time voice AI, and evaluation infrastructure. Currently the founding AI engineer at an a16z-backed startup, shipping the core generative engine that turns a single prompt into a finished audio course.
 
-- **🔭 Currently**: Working on enterprise-level **LLM Agents** (private, NASDAQ-listed company)  
-- **🌱 Exploring**: Generative AI, <a href="https://github.com/hwchase17/langchain" target="_blank">LangChain</a>, and advanced NLP pipeline automation  
-- **👯 Open to Collaborate**: On **LLM** projects, prompt engineering, and **LangChain** libraries  
-- **🤝 Looking for Help**: Best practices in advanced **LLM** evaluation, safety, and prompt optimization  
-- **📝 Writing**: I share articles on <a href="https://medium.com/@ahmedtammaa101_24052" target="_blank">Medium</a> about Generative AI and developer tips  
-- **👨‍💻 All Projects**: View them on my <a href="https://github.com/AhmedTammaa" target="_blank">GitHub profile</a>  
-
-### Key Achievements
-- **ICPC World Finalist (2023):** Placed among the top 2% of competitive programmers worldwide  
-- **Open Source Contributions:** 
-  - <a href="https://github.com/hwchase17/langchain/pull/27678" target="_blank">LangChain</a> (HTMLTextHeaderSplitter enhancements)  
-  - <a href="https://github.com/fschaeck/python-pptx-text-replacer/pull/14" target="_blank">python-pptx-text-replacer</a> (Extended functionality for master slides)  
-- **Academic Excellence:** Graduated **First Class Honours**; Valedictorian of AI specialization  
-- **Best Research & Design Award (2023):** For AI-based projects at the British University in Egypt  
+- 🔭 **Building** the multi-agent generation engine and TTS evaluation pipeline at **SUN**
+- 🎓 **Researching** LLMs and immersive learning at **TU Graz**
+- 🌱 **Contributing** to **LangChain Core** (7+ merged PRs across stability, error handling, and provider integrations)
+- ✍️ **Writing** about GenAI architecture and developer ergonomics on [Medium](https://medium.com/@ahmedtammaa101_24052)
+- 📫 **Reach me** at [ahmed.tammaa.ai@icloud.com](mailto:ahmed.tammaa.ai@icloud.com)
 
 ---
 
-## Featured Projects
+## Experience
 
-1. **LLM Agent Data Analyst**  
-   - Built an agentic workflow (with Langgraph) that **analyzes** and **creates reports** on enterprise-scale data  
-   - Integrated **RBAC security layers** for safe database interactions  
-   - Generates full business reports with **visualizations** automatically  
-
-2. **Adversarial Text-to-Image Synthesis** (Graduation Project)  
-   - Achieved **FID: 95** and **Inception Score (IS): 3.09** through advanced **GAN + NLP** synergy  
-   - Implemented **Instance Selection** to reduce training time by 20%  
-
-3. **Autonomous LangChain Legal PDF Summarizer**  
-   - Developed an agent that **analyzes** and **summarizes** lengthy legal documents into structured **JSON** format  
-   - Integrated correctness and safety evaluations for reliable LLM outputs  
+| Role | Company | 
+|------|---------|
+| Founding AI Engineer | **SUN** *(a16z portfolio)* |
+| Generative AI Engineer | Graph8 |
+| AI Engineer | Wassel AI |
+| ML & NLP Engineer | Corporatica |
+| Teaching & Research Assistant | British University in Egypt |
 
 ---
 
-## What I Do
+## Featured Work
 
-- **LangChain Development**: Building custom LLM pipelines, RAG solutions, and autonomous agents  
-- **Generative AI**: Experimentation with text-to-image, text-to-text transformations, and cutting-edge model architectures  
-- **Machine Learning**: Traditional statistical models to advanced neural networks (PyTorch, TensorFlow, scikit-learn)  
-- **Research & Teaching**: Part-time Teaching Assistant, focusing on **Neural Networks** and **Machine Learning** labs  
+**🎙️ Multi-Agent Audio Course Generation** *(SUN, current)*
+End-to-end pipeline that converts a topic prompt into a podcast-style AI course. Multi-agent script generation, prosody-aware TTS, and a two-track evaluation system (text-level grading + LALM audio judging).
+
+**📊 LLM Data Analyst Agent**
+Agentic workflow built on LangGraph that autonomously analyzes enterprise data and generates visualizations. RBAC layer for safe, permissioned database access.
+
+**⚖️ Autonomous Legal PDF Summarizer**
+LangChain agent that parses lengthy legal documents and emits structured JSON summaries, with built-in correctness and safety evaluations.
+
+**🖼️ Adversarial Text-to-Image Synthesis** *(undergraduate research)*
+GAN + NLP system achieving **FID: 95**, **IS: 3.09**. Instance Selection algorithms cut training time by 20%.
 
 ---
 
-## Connect with Me
+## Open Source
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmedtammaa101/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@ahmedtammaa101_24052" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="mailto:ahmedtammaa101@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
-  </a>
+**LangChain Core** — 7+ merged PRs
+
+- [`#27678`](https://github.com/langchain-ai/langchain/pull/27678) · [`#29397`](https://github.com/langchain-ai/langchain/pull/29397) — Refactored `HTMLHeaderTextSplitter` from lxml/XSLT to BeautifulSoup; materially improved throughput on large HTML documents
+- [`#30936`](https://github.com/langchain-ai/langchain/pull/30936) — `OutputParser` now surfaces granular errors when output is truncated by `max_tokens`
+- [`#30935`](https://github.com/langchain-ai/langchain/pull/30935) — Anthropic: optional tool descriptions
+- [`#29758`](https://github.com/langchain-ai/langchain/pull/29758) — DeepSeek: JSON decoding error handling
+
+**python-pptx-text-replacer** — [`#14`](https://github.com/fschaeck/python-pptx-text-replacer/pull/14) — Extended functionality for master slides
+
+---
+
+## Honors
+
+- 🏆 **ICPC World Finalist (2023)** — top 2% of collegiate programmers worldwide
+- 🥇 **ACPC Regional Finalist (2021, 2022)** — Arab & African Collegiate Programming Contest
+- 🎓 **First Class Honors, Valedictorian** — B.Sc. AI, British University in Egypt (ranked 1st in cohort)
+- 🏅 **Best Research and Design Award** — undergraduate graduation project
+
+---
+
+## Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**LLM & ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTammaa&theme=default&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedTammaa&theme=flat&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
 
-## Tech Stack & Tools
-
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  
-  <!-- AI / ML / Data -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  
-  <!-- DevOps / Cloud -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  
-  <!-- Others -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+<p align="center">
+  <i>Open to collaborate on LLM tooling, multi-agent frameworks, and evaluation infrastructure.</i>
 </p>
-
----
-
-> **Looking to discuss AI or collaborate on cutting-edge LLM projects?** Feel free to [reach out](mailto:ahmedtammaa101@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ahmedtammaa101/).
-
-<div align="center">
-  <b>Thanks for visiting! Keep coding and innovating 🚀</b>
-</div>
