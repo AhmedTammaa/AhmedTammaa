@@ -1,123 +1,68 @@
-<h1 align="center">Hi, I'm Ahmed Tammaa 👋</h1>
+# Ahmed Tammaa — AI Engineer (LLM systems, agents, evals, voice AI)
 
-<p align="center">
-  <b>AI Engineer · LLM Systems & Multi-Agent Architecture</b><br/>
-  <i>Founding AI Engineer @ SUN (a16z) · M.Sc. CS @ TU Graz · ICPC World Finalist</i>
-</p>
+**Founding AI Engineer at [SUN](https://sunapp.ai) (a16z-backed)** · M.Sc. Computer Science at TU Graz · ICPC World Finalist · LangChain contributor
 
-<p align="center">
-  <a href="mailto:ahmed.tammaa.ai@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/ahmedtammaa101/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@ahmedtammaa101_24052"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.researchgate.net/profile/Ahmed-Tammaa"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-</p>
+**San Francisco Bay Area**\
+[LinkedIn](https://www.linkedin.com/in/ahmedtammaa101/) · [Email](mailto:ahmed.tammaa.ai@icloud.com) · [Google Scholar](https://scholar.google.com/citations?user=1fgHgYQAAAAJ) · [ORCID](https://orcid.org/0009-0005-9655-3770) · [ResearchGate](https://www.researchgate.net/profile/Ahmed-Tammaa) · [Medium](https://medium.com/@ahmedtammaa101_24052)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedtammaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-## About
-
-I build production-grade LLM systems — multi-agent orchestration, real-time voice AI, and evaluation infrastructure. Currently the founding AI engineer at an a16z-backed startup, shipping the core generative engine that turns a single prompt into a finished audio course.
-
-- 🔭 **Building** the multi-agent generation engine and TTS evaluation pipeline at **SUN**
-- 🎓 **Researching** LLMs and immersive learning at **TU Graz**
-- 🌱 **Contributing** to **LangChain Core** (7+ merged PRs across stability, error handling, and provider integrations)
-- ✍️ **Writing** about GenAI architecture and developer ergonomics on [Medium](https://medium.com/@ahmedtammaa101_24052)
-- 📫 **Reach me** at [ahmed.tammaa.ai@icloud.com](mailto:ahmed.tammaa.ai@icloud.com)
-
----
+I build production LLM systems end to end: multi-agent orchestration, real-time voice AI, LLM evaluation infrastructure, and fine-tuning. At SUN I built the generation engine that turns a single prompt into a finished, podcast-style audio course.
 
 ## Experience
 
-| Role | Company | 
-|------|---------|
-| Founding AI Engineer | **SUN** *(a16z portfolio)* |
-| Generative AI Engineer | Graph8 |
-| AI Engineer | Wassel AI |
-| ML & NLP Engineer | Corporatica |
-| Teaching & Research Assistant | British University in Egypt |
+**Founding AI Engineer — SUN** *(a16z portfolio, current)*
+- Built the multi-agent engine that turns one topic prompt into a complete audio course: course planning, script generation, and prosody-aware text-to-speech (TTS).
+- Built a two-track evaluation system: text-level factuality grading plus audio-level pairwise judging with a large audio-language model (LALM-as-a-judge), aggregated with Bradley–Terry / Elo. Ranked #1 against NotebookLM in a 600-comparison blind evaluation.
+- Built a factual-accuracy benchmark (100 topics × 10 domains) and a LoRA SFT pipeline on Qwen2.5-7B-Instruct with a prosody-tag vocabulary and WhisperX forced alignment.
+- Benchmarked commercial and open-weight TTS models, including ElevenLabs v3, Fish Audio S2 and Gemini Flash TTS.
 
----
+**Previously**
+- Generative AI Engineer — Graph8
+- AI Engineer — Wassel AI
+- ML & NLP Engineer — Corporatica
+- Teaching & Research Assistant — British University in Egypt
 
-## Featured Work
+## Research
 
-**🎙️ Multi-Agent Audio Course Generation** *(SUN, current)*
-End-to-end pipeline that converts a topic prompt into a podcast-style AI course. Multi-agent script generation, prosody-aware TTS, and a two-track evaluation system (text-level grading + LALM audio judging).
+**PAN 2026 at CLEF, Multi-Author Writing Style Analysis — 1st place on the medium and hard test sets** (11 teams)
+- Top F1 on both: 0.768 (medium) and 0.780 (hard)
+- Contrastive windowed boundary classification: DeBERTa encoder, domain- and task-adaptive pretraining (DAPT + TAPT), threshold calibration
+- [Task overview](https://ceur-ws.org/Vol-4283/paper388.pdf)
 
-**📊 LLM Data Analyst Agent**
-Agentic workflow built on LangGraph that autonomously analyzes enterprise data and generates visualizations. RBAC layer for safe, permissioned database access.
+**Publications**
+- A. Voznyuk, A. Tammaa — *Contrastive Windowed Boundary Classification for Multi-Author Writing Style Analysis*, CLEF 2026 Working Notes · [PDF](https://ceur-ws.org/Vol-4283/paper429.pdf)
+- Paper on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10578895)
+- Full list on [Google Scholar](https://scholar.google.com/citations?user=1fgHgYQAAAAJ)
 
-**⚖️ Autonomous Legal PDF Summarizer**
-LangChain agent that parses lengthy legal documents and emits structured JSON summaries, with built-in correctness and safety evaluations.
+Interests: LLM evaluation, authorship analysis and computational stylistics, LLMs for learning.
 
-**🖼️ Adversarial Text-to-Image Synthesis** *(undergraduate research)*
-GAN + NLP system achieving **FID: 95**, **IS: 3.09**. Instance Selection algorithms cut training time by 20%.
+## Open source
 
----
+**[LangChain](https://github.com/langchain-ai/langchain)** — 7+ merged PRs across text splitters, output parsers, and the Anthropic and DeepSeek integrations
+- [#27678](https://github.com/langchain-ai/langchain/pull/27678), [#29397](https://github.com/langchain-ai/langchain/pull/29397) — Moved `HTMLHeaderTextSplitter` from lxml/XSLT to BeautifulSoup so it handles large HTML documents, then refactored it for maintainability
+- [#30936](https://github.com/langchain-ai/langchain/pull/30936) — Output parsers raise a specific error when generation is truncated by `max_tokens`
+- [#30935](https://github.com/langchain-ai/langchain/pull/30935) — Anthropic integration: optional tool descriptions
+- [#29758](https://github.com/langchain-ai/langchain/pull/29758) — DeepSeek integration: JSON decoding error handling
 
-## Open Source
+**[python-pptx-text-replacer](https://github.com/fschaeck/python-pptx-text-replacer)** — [#14](https://github.com/fschaeck/python-pptx-text-replacer/pull/14): text replacement in master slides
 
-**LangChain Core** — 7+ merged PRs
+## Selected projects
 
-- [`#27678`](https://github.com/langchain-ai/langchain/pull/27678) · [`#29397`](https://github.com/langchain-ai/langchain/pull/29397) — Refactored `HTMLHeaderTextSplitter` from lxml/XSLT to BeautifulSoup; materially improved throughput on large HTML documents
-- [`#30936`](https://github.com/langchain-ai/langchain/pull/30936) — `OutputParser` now surfaces granular errors when output is truncated by `max_tokens`
-- [`#30935`](https://github.com/langchain-ai/langchain/pull/30935) — Anthropic: optional tool descriptions
-- [`#29758`](https://github.com/langchain-ai/langchain/pull/29758) — DeepSeek: JSON decoding error handling
-
-**python-pptx-text-replacer** — [`#14`](https://github.com/fschaeck/python-pptx-text-replacer/pull/14) — Extended functionality for master slides
-
----
+- **LLM data-analyst agent** — LangGraph agent that analyzes enterprise data and generates visualizations, with role-based access control (RBAC) for permissioned database queries.
+- **Legal document summarizer** — LangChain agent that turns long legal PDFs into structured JSON summaries, with automated correctness and safety evaluations.
 
 ## Honors
 
-- 🏆 **ICPC World Finalist (2023)** — top 2% of collegiate programmers worldwide
-- 🥇 **ACPC Regional Finalist (2021, 2022)** — Arab & African Collegiate Programming Contest
-- 🎓 **First Class Honors, Valedictorian** — B.Sc. AI, British University in Egypt (ranked 1st in cohort)
-- 🏅 **Best Research and Design Award** — undergraduate graduation project
+- **ICPC World Finalist (2023)** — top 2% of collegiate programmers worldwide
+- **ACPC Regional Finalist (2021, 2022)** — Arab and African Collegiate Programming Contest
+- **First Class Honors, Valedictorian** — B.Sc. Artificial Intelligence, British University in Egypt (ranked 1st in cohort)
+- **Best Research and Design Award** — undergraduate project on text-to-image synthesis with GANs
 
----
+## Skills
 
-## Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**LLM & ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Infra**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTammaa&theme=default&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedTammaa&theme=flat&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaborate on LLM tooling, multi-agent frameworks, and evaluation infrastructure.</i>
-</p>
+- **LLMs & agents:** LangChain, LangGraph, multi-agent orchestration, tool calling, structured outputs
+- **Evaluation:** LLM-as-a-judge, pairwise preference ranking (Bradley–Terry / Elo), factuality scoring, benchmark design
+- **Training:** PyTorch, Hugging Face Transformers, LoRA / SFT, domain-adaptive pretraining, contrastive learning
+- **Speech:** text-to-speech (TTS), prosody control, WhisperX forced alignment
+- **Machine learning & NLP:** TensorFlow, scikit-learn, authorship analysis
+- **Languages:** Python, C++, SQL, Java
+- **Infrastructure:** FastAPI, Docker, AWS SageMaker, MongoDB, Git
