@@ -2,8 +2,7 @@
 
 **Founding AI Engineer at [SUN](https://sunapp.ai) (a16z-backed)** · M.Sc. Computer Science at TU Graz · ICPC World Finalist · LangChain contributor
 
-**San Francisco Bay Area**\
-[LinkedIn](https://www.linkedin.com/in/ahmedtammaa101/) · [Email](mailto:ahmed.tammaa.ai@icloud.com) · [Google Scholar](https://scholar.google.com/citations?user=1fgHgYQAAAAJ) · [ORCID](https://orcid.org/0009-0005-9655-3770) · [ResearchGate](https://www.researchgate.net/profile/Ahmed-Tammaa) · [Medium](https://medium.com/@ahmedtammaa101_24052)
+San Francisco, CA · [LinkedIn](https://www.linkedin.com/in/ahmedtammaa101/) · [Email](mailto:ahmed.tammaa.ai@icloud.com) · [Google Scholar](https://scholar.google.com/citations?user=1fgHgYQAAAAJ) · [ORCID](https://orcid.org/0009-0005-9655-3770) · [ResearchGate](https://www.researchgate.net/profile/Ahmed-Tammaa) · [Medium](https://medium.com/@ahmedtammaa101_24052)
 
 I build production LLM systems end to end: multi-agent orchestration, real-time voice AI, LLM evaluation infrastructure, and fine-tuning. At SUN I built the generation engine that turns a single prompt into a finished, podcast-style audio course.
 
@@ -29,8 +28,8 @@ I build production LLM systems end to end: multi-agent orchestration, real-time 
 - [Task overview](https://ceur-ws.org/Vol-4283/paper388.pdf)
 
 **Publications**
-- A. Voznyuk, A. Tammaa — *Contrastive Windowed Boundary Classification for Multi-Author Writing Style Analysis*, CLEF 2026 Working Notes · [PDF](https://ceur-ws.org/Vol-4283/paper429.pdf)
-- Paper on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10578895)
+- A. Voznyuk, **A. Tammaa** — *Contrastive Windowed Boundary Classification for Multi-Author Writing Style Analysis*, CLEF 2026 Working Notes · [PDF](https://ceur-ws.org/Vol-4283/paper429.pdf)
+- A. Pester, **A. Tammaa**, C. Gütl, A. Steinmaurer, S. Abou El-Seoud — *Conversational Agents, Virtual Worlds, and Beyond: A Review of Large Language Models Enabling Immersive Learning*, IEEE EDUCON 2024 · [DOI](https://doi.org/10.1109/EDUCON60312.2024.10578895)
 - Full list on [Google Scholar](https://scholar.google.com/citations?user=1fgHgYQAAAAJ)
 
 Interests: LLM evaluation, authorship analysis and computational stylistics, LLMs for learning.
