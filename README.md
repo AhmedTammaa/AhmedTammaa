@@ -4,7 +4,7 @@
 
 San Francisco, CA · [LinkedIn](https://www.linkedin.com/in/ahmedtammaa101/) · [Email](mailto:ahmed.tammaa.ai@icloud.com) · [Google Scholar](https://scholar.google.com/citations?user=1fgHgYQAAAAJ) · [ORCID](https://orcid.org/0009-0005-9655-3770) · [ResearchGate](https://www.researchgate.net/profile/Ahmed-Tammaa) · [Medium](https://medium.com/@ahmedtammaa101_24052)
 
-I build production LLM systems end to end: multi-agent orchestration, real-time voice AI, LLM evaluation infrastructure, and fine-tuning. At SUN I built the generation engine that turns a single prompt into a finished, podcast-style audio course.
+I build production LLM systems end to end: multi-agent orchestration, real-time voice AI, LLM evaluation infrastructure, and fine-tuning. At SUN I built the generation engine that turns a single prompt into a finished, podcast-style audio course
 
 ## Experience
 
