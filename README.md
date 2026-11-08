@@ -46,8 +46,8 @@ Interests: LLM evaluation, authorship analysis and computational stylistics, LLM
 
 ## Selected projects
 
-- **LLM data-analyst agent** — LangGraph agent that analyzes enterprise data and generates visualizations, with role-based access control (RBAC) for permissioned database queries.
-- **Legal document summarizer** — LangChain agent that turns long legal PDFs into structured JSON summaries, with automated correctness and safety evaluations.
+- **LLM data-analyst agent:** LangGraph agent that analyzes enterprise data and generates visualizations, with role-based access control (RBAC) for permissioned database queries.
+- **Legal document summarizer:** LangChain agent that turns long legal PDFs into structured JSON summaries, with automated correctness and safety evaluations.
 
 ## Honors
 
