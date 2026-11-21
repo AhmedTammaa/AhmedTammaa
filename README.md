@@ -65,3 +65,4 @@ Interests: LLM evaluation, authorship analysis and computational stylistics, LLM
 - **Machine learning & NLP:** TensorFlow, scikit-learn, authorship analysis
 - **Languages:** Python, C++, SQL, Java
 - **Infrastructure:** FastAPI, Docker, AWS SageMaker, MongoDB, Git
+- And much more lol
